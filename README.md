@@ -1,6 +1,3 @@
-run_analysis
-============
-
 <h1>What this repository contains?</h1>
 This repository contains the R code for the assignment "Getting and Cleaning Data Course Project" from the Coursera class "Getting and Cleaning Data".
 
